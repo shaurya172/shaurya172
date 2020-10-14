@@ -26,7 +26,6 @@ An AI Developer and ML Engineer passionate about Data Science 📊. I like autom
 <img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" alt = "python" width="50" height="60">
 <img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" alt = "aws" width="50" height="60">
 <img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" alt = "mysql"  width="50" height="60">
-
 <img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" alt = "mysql"  width="50" height="60">
 <img src = "https://bit.ly/3nYok5N" alt = "Django"  width="50" height="60">
 <img src = "https://www.kubeflow.org/docs/images/logos/TensorFlow.png" alt = "Tensorflow"  width="50" height="60">
