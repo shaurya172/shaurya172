@@ -18,14 +18,14 @@ An AI Developer and ML Engineer passionate about Data Science 📊. I like autom
 </ul>
 </blockquote>
 
-💡  <strong> ### I'm interested in all things data:</strong> Big Data, Cloud, Machine Learning and Data Science
+💡  <strong>I'm interested in all things data:</strong> Big Data, Cloud, Machine Learning and Data Science
 
 💬 <strong> Talk to me about:</strong> Classic Rock 🎸, Motorcycles and Travel ⚡
 
-<strong> My skills include </strong>
+<strong> My skills include </strong> <br>
 <img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"  width="50" height="60">
-
-
+<img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg"  width="50" height="60">
+<img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg"  width="50" height="60">
 
 
 
