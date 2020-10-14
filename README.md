@@ -31,13 +31,15 @@ An AI Developer and ML Engineer passionate about Data Science 📊. I like autom
 <img title = "Django" title = "" src = "https://s3.amazonaws.com/media-p.slid.es/uploads/iosamuel/images/438461/djangopony.png" alt = "Django"  width="70" height="60">
 <img title = "Tensorflow" src = "https://www.kubeflow.org/docs/images/logos/TensorFlow.png" alt = "Tensorflow"  width="70" height="60">
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="60" height="60"/>
-<img title="IBM Watson" alt="ibm" src="https://images.contentstack.io/v3/assets/blt77283b164776448a/blt78d0929099e816e6/5d476536e62bb67fae93074a/ibm-watson-full-logo.png" width="70" height="60"/>
-<img title="UiPath" alt="UiPath" src="https://www.symphonyhq.com/wp-content/uploads/2018/03/UiPath-Logo-blue.png" width="60" height="60"/>
+<img title="IBM Watson" alt="ibm" src="https://images.contentstack.io/v3/assets/blt77283b164776448a/blt78d0929099e816e6/5d476536e62bb67fae93074a/ibm-watson-full-logo.png" width="100" height="60"/>
+<img title="UiPath" alt="UiPath" src="https://www.symphonyhq.com/wp-content/uploads/2018/03/UiPath-Logo-blue.png" width="100" height="60"/>
 </p>
 
 <hr>
 <p align="center">
    <i>" Machines take me by surprise with great frequency " - Alan Turing</i>
+   <br>
+  <i>You miss 100% of the shots you don't take.</i>
    <br>
    
 <br>	
