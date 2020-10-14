@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Shaurya Vardhan.
+
+A AI Developer and ML Engineer passionate about Data Science 📊. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖.
+
+
 
 <!--
 **shaurya172/shaurya172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
