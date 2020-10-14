@@ -23,10 +23,10 @@ An AI Developer and ML Engineer passionate about Data Science 📊. I like autom
 💬 <strong> Talk to me about:</strong> Classic Rock 🎸, Motorcycles and Travel ⚡
 
 <strong> My skills include </strong>
-<img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" style="width:500px;height:600px;>
+<img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"  width="500" height="600">
 
 
-
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
 
 
