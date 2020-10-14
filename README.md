@@ -27,6 +27,11 @@ An AI Developer and ML Engineer passionate about Data Science 📊. I like autom
 <img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg"  width="50" height="60">
 <img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg"  width="50" height="60">
 
+<!-- Image 1 -->
+<div class="content_img">
+ <img src='https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg' width='100%' height='100%'>
+ <div>Image 1 Python</div>
+</div>
 
 
 
