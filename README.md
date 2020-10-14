@@ -1,6 +1,12 @@
 ### Hi there 👋 I'm Shaurya Vardhan.
 
-A AI Developer and ML Engineer passionate about Data Science 📊. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖.
+An AI Developer and ML Engineer passionate about Data Science 📊. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖.
+
+🔭 <strong> I’m currently working on </strong>
+<ol>
+  <li>A Youtube API based Sentiment Analysis App </li>
+  <li>Research Paper on Social Media behaviour Analysis using Machine Learning </li>
+</ol>
 
 
 
