@@ -4,14 +4,14 @@ An AI Developer and ML Engineer passionate about Data Science 📊. I like autom
 
 🔭 <strong> I’m currently working on: </strong>
 
-<blockquote>
+
 <ul>
   <li>A Youtube API based Sentiment Analysis App </li>
   <li>Research Paper on Social Media behaviour Analysis using Machine Learning </li>
 </ul>
-</blockquote>
 
-🌱 ###  I’m currently learning: 
+
+🌱 <strong> I’m currently learning: </strong>
 <ul>
   <li>TensorFlow </li>
   <li>Django </li>
@@ -22,7 +22,14 @@ An AI Developer and ML Engineer passionate about Data Science 📊. I like autom
 
 💬 <strong> Talk to me about:</strong> Classic Rock 🎸, Motorcycles and Travel ⚡
 
-### My skills include
+<strong> My skills include </strong>
+<img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg">
+
+
+
+
+
+
 <!--
 **shaurya172/shaurya172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
