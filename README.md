@@ -23,13 +23,14 @@ An AI Developer and ML Engineer passionate about Data Science 📊. I like autom
 💬 <strong> Talk to me about:</strong> Classic Rock 🎸, Motorcycles and Travel ⚡
 
 <strong> My skills include </strong> <br>
-<img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" alt = "python" width="50" height="60">
-<img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" alt = "aws" width="50" height="60">
-<img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" alt = "mysql"  width="50" height="60">
-<img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" alt = "mysql"  width="50" height="60">
-<img src = "https://bit.ly/3nYok5N" alt = "Django"  width="50" height="60">
-<img src = "https://www.kubeflow.org/docs/images/logos/TensorFlow.png" alt = "Tensorflow"  width="50" height="60">
-
+<img title = "Python" src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" alt = "python" width="50" height="60">
+<img title = "AWS" src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" alt = "aws" width="50" height="60">
+<img title = "Azure" src = "https://hub.packtpub.com/wp-content/uploads/2018/03/azure-1.png" alt = "azure" width="50" height="60">
+<img title = "MySQL" src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" alt = "mysql"  width="50" height="60">
+<img title = "Git" src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" alt = "mysql"  width="50" height="60">
+<img title = "Django" title = "" src = "https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt = "Django"  width="50" height="60">
+<img title = "Tensorflow" src = "https://www.kubeflow.org/docs/images/logos/TensorFlow.png" alt = "Tensorflow"  width="50" height="60">
+<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
 
 
 
