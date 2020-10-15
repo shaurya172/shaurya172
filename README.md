@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=shaurya172)
+
 ### Hi there 👋 I'm Shaurya Vardhan.
 
 An AI Developer and ML Engineer passionate about Data Science 📊. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖.
