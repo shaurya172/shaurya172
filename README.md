@@ -22,6 +22,7 @@ An AI Developer and ML Engineer passionate about Data Science 📊. I like autom
 ### 💬  Talk to me about: Classic Rock 🎸, Motorcycles and Travel ⚡
 
 ### My skills include  <br>
+
 <p align="center">
 <img title = "Python" src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" alt = "python" width="70" height="60">
 <img title = "AWS" src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" alt = "aws" width="70" height="60">
@@ -43,7 +44,6 @@ An AI Developer and ML Engineer passionate about Data Science 📊. I like autom
    <br>
    
 <br>
-
 <a target="_blank" href="https://www.linkedin.com/in/shaurya-vardhan-a98867113/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:shauryavardhan1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
