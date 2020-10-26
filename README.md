@@ -30,7 +30,8 @@ An AI Developer and ML Engineer passionate about Data Science 📊. I like autom
 <img title = "AWS" src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" alt = "aws" width="70" height="60">
 <img title = "Azure" src = "https://hub.packtpub.com/wp-content/uploads/2018/03/azure-1.png" alt = "azure" width="70" height="70">
 <img title = "MySQL" src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" alt = "mysql"  width="50" height="60">
-<img title = "Git" src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" alt = "mysql"  width="70" height="60">
+<img title = "PostgreSQL" src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" alt = "mysql"  width="50" height="60">
+<img title = "Git" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt = "postgres"  width="70" height="60">
 <img title = "Django" title = "" src = "https://s3.amazonaws.com/media-p.slid.es/uploads/iosamuel/images/438461/djangopony.png" alt = "Django"  width="70" height="60">
 <img title = "Tensorflow" src = "https://www.kubeflow.org/docs/images/logos/TensorFlow.png" alt = "Tensorflow"  width="70" height="60">
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="60" height="60"/>
