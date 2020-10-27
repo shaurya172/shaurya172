@@ -11,7 +11,6 @@ An AI Developer and ML Engineer passionate about Data Science 📊. I like autom
   <li>Research Paper on Social Media behaviour Analysis using Machine Learning </li>
 </ul>
 
-
 ### 🌱  I’m currently learning: 
 <ul>
   <li>TensorFlow </li>
